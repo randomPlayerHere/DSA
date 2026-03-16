@@ -1,12 +1,27 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        buy1 = float('-inf')
-        sell1 = 0
-        buy2 = float('-inf')
-        sell2 = 0
-        for price in prices:
-            buy1 = max(buy1, -price)
-            sell1 = max(sell1, buy1 + price)
-            buy2 = max(buy2, sell1 - price)
-            sell2 = max(sell2, buy2 + price)
-        return sell2
+        n = len(prices)
+        def recur(ind, ib, cap):
+            if cap == 0 or ind==n:
+                return 0
+            if ib ==0:
+                profit = max(-prices[ind] + recur(ind+1, 1, cap), recur(ind+1, 0, cap))
+            else:
+                profit = max(prices[ind] + recur(ind+1, 0, cap-1), recur(ind+1, 1, cap))
+            return profit
+        # return recur(0,0,2)
+
+        def tabulation():
+            dp = [[[0 for _ in range(3)] for _ in range(2)] for _ in range(n+1)]
+            # base case already satisifed due to the defination
+            for i in range(n-1, -1, -1):
+                for j in range(2):
+                    for k in range(1,3):
+                        if j ==0:
+                            profit = max(-prices[i] + dp[i+1][1][k], dp[i+1][0][k])
+                        else:
+                            profit = max(prices[i] + dp[i+1][0][k-1], dp[i+1][1][k])
+                        dp[i][j][k] = profit
+            return dp[0][0][2]
+        return tabulation()
+

@@ -8,5 +8,6 @@ class Solution:
                 return [hash_map[needed],i]
             else:
                 hash_map[nums[i]] = i
+        return []
         
             

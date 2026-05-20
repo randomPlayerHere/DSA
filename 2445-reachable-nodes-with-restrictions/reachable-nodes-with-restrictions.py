@@ -31,6 +31,6 @@ class Solution:
                         visited.add(nei)
                         que.append(nei)
         
-        bfs(0)
+        dfs(0)
         return len(visited)
 

@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/randomPlayerHere/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/randomPlayerHere/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/randomPlayerHere/DSA/tree/master/1406-stone-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/randomPlayerHere/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->

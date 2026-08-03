@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/randomPlayerHere/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1406-stone-game-iii](https://github.com/randomPlayerHere/DSA/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/randomPlayerHere/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Math
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/randomPlayerHere/DSA/tree/master/1406-stone-game-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/randomPlayerHere/DSA/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/randomPlayerHere/DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->

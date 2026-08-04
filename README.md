@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/randomPlayerHere/DSA/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/randomPlayerHere/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/randomPlayerHere/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/randomPlayerHere/DSA/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/randomPlayerHere/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Math
 |  |
@@ -38,5 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/randomPlayerHere/DSA/tree/master/0100-same-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/randomPlayerHere/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/randomPlayerHere/DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->

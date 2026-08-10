@@ -34,14 +34,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/randomPlayerHere/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/randomPlayerHere/DSA/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/randomPlayerHere/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/randomPlayerHere/DSA/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/randomPlayerHere/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/randomPlayerHere/DSA/tree/master/1510-stone-game-iv) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -54,4 +57,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/randomPlayerHere/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/randomPlayerHere/DSA/tree/master/0101-symmetric-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/randomPlayerHere/DSA/tree/master/0652-find-duplicate-subtrees) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/randomPlayerHere/DSA/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/randomPlayerHere/DSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/randomPlayerHere/DSA/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/randomPlayerHere/DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->

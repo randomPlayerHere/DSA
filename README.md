@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/randomPlayerHere/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/randomPlayerHere/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1406-stone-game-iii](https://github.com/randomPlayerHere/DSA/tree/master/1406-stone-game-iii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/randomPlayerHere/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/randomPlayerHere/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-stone-game-iii](https://github.com/randomPlayerHere/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/randomPlayerHere/DSA/tree/master/1510-stone-game-iv) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/randomPlayerHere/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Game Theory
 |  |
 | ------- |
@@ -113,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/randomPlayerHere/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/randomPlayerHere/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/randomPlayerHere/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->

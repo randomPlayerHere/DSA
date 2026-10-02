@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/randomPlayerHere/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/randomPlayerHere/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0652-find-duplicate-subtrees](https://github.com/randomPlayerHere/DSA/tree/master/0652-find-duplicate-subtrees) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/randomPlayerHere/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/randomPlayerHere/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/randomPlayerHere/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0652-find-duplicate-subtrees](https://github.com/randomPlayerHere/DSA/tree/master/0652-find-duplicate-subtrees) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/randomPlayerHere/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Math
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/randomPlayerHere/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/randomPlayerHere/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
 | ------- |
@@ -123,4 +126,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/randomPlayerHere/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Design
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/randomPlayerHere/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/randomPlayerHere/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/randomPlayerHere/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->

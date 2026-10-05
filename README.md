@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/randomPlayerHere/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/randomPlayerHere/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/randomPlayerHere/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0538-convert-bst-to-greater-tree](https://github.com/randomPlayerHere/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/randomPlayerHere/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/randomPlayerHere/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/randomPlayerHere/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/randomPlayerHere/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/randomPlayerHere/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/randomPlayerHere/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0538-convert-bst-to-greater-tree](https://github.com/randomPlayerHere/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/randomPlayerHere/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/randomPlayerHere/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/randomPlayerHere/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/randomPlayerHere/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/randomPlayerHere/DSA/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/randomPlayerHere/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0538-convert-bst-to-greater-tree](https://github.com/randomPlayerHere/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/randomPlayerHere/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/randomPlayerHere/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Minimax
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/randomPlayerHere/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/randomPlayerHere/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |

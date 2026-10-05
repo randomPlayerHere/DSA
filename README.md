@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/randomPlayerHere/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/randomPlayerHere/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/randomPlayerHere/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1110-delete-nodes-and-return-forest](https://github.com/randomPlayerHere/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1406-stone-game-iii](https://github.com/randomPlayerHere/DSA/tree/master/1406-stone-game-iii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/randomPlayerHere/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/randomPlayerHere/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/randomPlayerHere/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/randomPlayerHere/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0652-find-duplicate-subtrees](https://github.com/randomPlayerHere/DSA/tree/master/0652-find-duplicate-subtrees) |
+| [1110-delete-nodes-and-return-forest](https://github.com/randomPlayerHere/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/randomPlayerHere/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Divide and Conquer
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/randomPlayerHere/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/randomPlayerHere/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/randomPlayerHere/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/randomPlayerHere/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/randomPlayerHere/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/randomPlayerHere/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/randomPlayerHere/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/randomPlayerHere/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/randomPlayerHere/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/randomPlayerHere/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Math
 |  |
@@ -88,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/randomPlayerHere/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/randomPlayerHere/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/randomPlayerHere/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/randomPlayerHere/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/randomPlayerHere/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Minimax
 |  |

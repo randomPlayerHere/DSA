@@ -7,27 +7,19 @@
 class Solution:
     def pathSum(self, root: TreeNode | None, targetSum: int) -> int:
         count = 0
-        sam = 0
+        curr = 0
+        mp = {0:1}
         def dfs(root):
-            nonlocal sam, count
+            nonlocal curr, count
             if root is None:
-                return 0
-            sam+=root.val
-            if sam ==targetSum:
-                count+=1
+                return
+            curr+=root.val
+            count += mp.get(curr-targetSum, 0)
+            mp[curr] = mp.get(curr, 0) +1
             dfs(root.left)
             dfs(root.right)
-            sam-=root.val
-        
-        def traverse_dfs(root):
-            if root is None:
-                return 
-            dfs(root)
-            traverse_dfs(root.left)
-            traverse_dfs(root.right)
-
-        traverse_dfs(root)
+            mp[curr]-=1
+            curr -= root.val
+        dfs(root)
         return count
-
-
 

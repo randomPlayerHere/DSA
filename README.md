@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/randomPlayerHere/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/randomPlayerHere/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/randomPlayerHere/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0968-binary-tree-cameras](https://github.com/randomPlayerHere/DSA/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/randomPlayerHere/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/randomPlayerHere/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/randomPlayerHere/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/randomPlayerHere/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/randomPlayerHere/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/randomPlayerHere/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0968-binary-tree-cameras](https://github.com/randomPlayerHere/DSA/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/randomPlayerHere/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/randomPlayerHere/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/randomPlayerHere/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0968-binary-tree-cameras](https://github.com/randomPlayerHere/DSA/tree/master/0968-binary-tree-cameras) |
 | [1406-stone-game-iii](https://github.com/randomPlayerHere/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/randomPlayerHere/DSA/tree/master/1510-stone-game-iv) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/randomPlayerHere/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/randomPlayerHere/DSA/tree/master/0437-path-sum-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/randomPlayerHere/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/randomPlayerHere/DSA/tree/master/0652-find-duplicate-subtrees) |
+| [0968-binary-tree-cameras](https://github.com/randomPlayerHere/DSA/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/randomPlayerHere/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/randomPlayerHere/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/randomPlayerHere/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -160,5 +164,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0968-binary-tree-cameras](https://github.com/randomPlayerHere/DSA/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/randomPlayerHere/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 <!---LeetCode Topics End-->

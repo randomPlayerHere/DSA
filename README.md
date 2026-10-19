@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/randomPlayerHere/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1406-stone-game-iii](https://github.com/randomPlayerHere/DSA/tree/master/1406-stone-game-iii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/randomPlayerHere/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2392-build-a-matrix-with-conditions](https://github.com/randomPlayerHere/DSA/tree/master/2392-build-a-matrix-with-conditions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/randomPlayerHere/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/randomPlayerHere/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2392-build-a-matrix-with-conditions](https://github.com/randomPlayerHere/DSA/tree/master/2392-build-a-matrix-with-conditions) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -166,4 +168,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0968-binary-tree-cameras](https://github.com/randomPlayerHere/DSA/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/randomPlayerHere/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [2392-build-a-matrix-with-conditions](https://github.com/randomPlayerHere/DSA/tree/master/2392-build-a-matrix-with-conditions) |
+## Topological Sort
+|  |
+| ------- |
+| [2392-build-a-matrix-with-conditions](https://github.com/randomPlayerHere/DSA/tree/master/2392-build-a-matrix-with-conditions) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [2392-build-a-matrix-with-conditions](https://github.com/randomPlayerHere/DSA/tree/master/2392-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->

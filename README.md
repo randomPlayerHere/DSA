@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/randomPlayerHere/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/randomPlayerHere/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/randomPlayerHere/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/randomPlayerHere/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1110-delete-nodes-and-return-forest](https://github.com/randomPlayerHere/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1406-stone-game-iii](https://github.com/randomPlayerHere/DSA/tree/master/1406-stone-game-iii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/randomPlayerHere/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/randomPlayerHere/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1406-stone-game-iii](https://github.com/randomPlayerHere/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/randomPlayerHere/DSA/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/randomPlayerHere/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/randomPlayerHere/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

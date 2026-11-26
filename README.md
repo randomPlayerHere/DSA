@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/randomPlayerHere/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1406-stone-game-iii](https://github.com/randomPlayerHere/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/randomPlayerHere/DSA/tree/master/1510-stone-game-iv) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/randomPlayerHere/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/randomPlayerHere/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Dynamic Programming
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/randomPlayerHere/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/randomPlayerHere/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sorting
 |  |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2392-build-a-matrix-with-conditions](https://github.com/randomPlayerHere/DSA/tree/master/2392-build-a-matrix-with-conditions) |
+## String
+|  |
+| ------- |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/randomPlayerHere/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
 <!---LeetCode Topics End-->
